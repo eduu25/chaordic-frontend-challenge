@@ -1,0 +1,12 @@
+.Header{
+    margin: 0%;
+    background-color: darkgray;
+    align-items: center;
+    text-align: center;
+}
+
+
+.BtnHeader {
+    display: flex;
+    justify-content: space-evenly;
+}

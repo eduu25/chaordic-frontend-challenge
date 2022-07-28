@@ -1,0 +1,9 @@
+.Buttonz {
+    min-width: 10%;
+    height: 2.5rem;
+    background: #FFFFFF;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: smaller;
+}
